@@ -33,3 +33,8 @@ Citation forthcoming
 ```
 
 ## Contributions
+
+If there's a metabolite not covered by the parameters in the current set, we welcome all contributions subject 
+to suitable validation. Contributions can be made through [issues](https://github.com/Martini-Force-Field-Initiative/M3-Metabolome/issues)
+or [pull requests](https://github.com/Martini-Force-Field-Initiative/M3-Metabolome/pulls). Please note that the decision of whether or not
+contributions can give authorship on the resulting academic paper is left to our sole discretion.
