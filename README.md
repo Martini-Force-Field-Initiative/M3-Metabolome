@@ -18,18 +18,18 @@ Citation forthcoming
 ```commandline
 .
 ├── distributions
-│   └── nucleotide_plots
-│       └── *.png
+│   ├── nucleotide_plots
+│   │   └── *.png
 │   └── *.png
 ├── gros
 │   └── *.gro
 ├── itps
 │   ├── bonded
-│       └── martini_v3.0.0_nucleotide_ffbonded_v1.itp
+│   │   └── martini_v3.0.0_nucleotide_ffbonded_v1.itp
 │   └── molecules
 │       └── *.itp
 └── mappings
-    └── map_files
+    ├── map_files
     │       └── *.map
     └── mappings.pdf
 ```
