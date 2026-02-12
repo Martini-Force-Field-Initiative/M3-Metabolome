@@ -6,5 +6,4 @@ In the [map_files](map_files) subdirectory, `.map` files used to map atomistic s
 are available for every molecule.
 
 In the file [mappings.pdf](mappings.pdf) file, images of each mapping have been generated using [CGSmiles](https://github.com/gruenewald-lab/CGsmiles). 
-Where the CGSmiles string is available, it has been noted in database LINK DATABASE
-
+Where the CGSmiles string is available, it has been noted in the [database](../database.md).

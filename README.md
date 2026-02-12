@@ -2,6 +2,8 @@
 
 Parameters, structure files, and parameterisation reference files for the Martini 3 Metabolome.
 
+The currently available models are listed in the [database](database.md).
+
 If you are interested in using the parameters, the structure and parameter files are contained
 in the [gros](gros) and [itps](itps) subdirectories respectively.
 
