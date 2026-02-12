@@ -1,0 +1,21 @@
+[ molecule ]
+LIG LSER
+
+[ martini ]
+BB0 BB1 SC1 
+
+[ atoms ]
+1	N1	BB0
+2	C1	BB0
+3	C2	SC1
+4	O1	SC1
+5	C3	BB1
+6	O2	BB1
+7	O3	BB1
+8	H1	BB0
+9	H2	BB0
+10	H3	BB0
+11	H4	BB0
+12	H5	SC1
+13	H6	SC1
+14	H7	SC1

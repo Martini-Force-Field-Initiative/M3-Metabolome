@@ -1,0 +1,26 @@
+[ molecule ]
+LIG TMG
+
+[ martini ]
+AMC1 CAC1
+
+[ atoms ]
+ 1  C1 AMC1
+ 2  N1 AMC1 
+ 3  C2 AMC1 
+ 4  C3 AMC1 
+ 5  C4 AMC1 
+ 6  C5 CAC1 
+ 7  O1 CAC1
+ 8  O2 CAC1 
+ 9  H1 AMC1 
+10  H2 AMC1 
+11  H3 AMC1 
+12  H4 AMC1 
+13  H5 AMC1 
+14  H6 AMC1 
+15  H7 AMC1 
+16  H8 AMC1 
+17  H9 AMC1 
+18  H10 AMC1
+19  H11 AMC1

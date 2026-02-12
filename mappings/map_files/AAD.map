@@ -1,0 +1,28 @@
+[ molecule ]
+LIG AAD
+
+[ martini ]
+CAC1 AMC1 C1 CAC2
+
+[ atoms ]
+ 1  N1 AMC1 
+ 2  C1 AMC1 
+ 3  C2 C1 
+ 4  C3 C1 
+ 5  C4 C1 
+ 6  C5 CAC2 
+ 7  O1 CAC2 
+ 8  O2 CAC2 
+ 9  C6 CAC1 
+10  O3 CAC1 
+11  O4 CAC1 
+12  H1 AMC1 
+13  H2 AMC1 
+14  H3 AMC1 
+15  H4 AMC1 
+16  H5 C1 
+17  H6 C1 
+18  H7 C1 
+19  H8 C1 
+20  H9 C1 
+21  H10 C1

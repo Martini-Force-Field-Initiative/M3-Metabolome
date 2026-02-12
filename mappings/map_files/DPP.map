@@ -1,0 +1,18 @@
+[ molecule ]
+LIG DPP
+
+[ martini ]
+P1 P2
+
+[ atoms ]
+1	O1 P1
+2	P1 P1
+3	O2 P1
+4	O3 P1
+5	O4 P1 P2
+6	P2 P2
+7	O5 P2
+8	O6 P2
+9	O7 P2
+10	H1 P1
+11	H2 P2

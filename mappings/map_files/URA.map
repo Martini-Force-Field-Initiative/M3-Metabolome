@@ -1,0 +1,19 @@
+[ molecule ]
+LIG URA
+
+[ martini ]
+URA1 URA2 URA3 URA4 URA5 
+
+[ atoms ]
+1	O1	URA2
+2	C1	URA2
+3	N1	URA1
+4	C2	URA1
+5       C3      URA5
+6	C4	URA4
+7	O2	URA4
+8	N2	URA3
+9	H1	!URA1
+10	H2	!URA1
+11      H3      !URA5
+12	H4	!URA3

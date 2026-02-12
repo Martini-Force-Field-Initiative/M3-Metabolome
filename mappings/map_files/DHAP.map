@@ -1,0 +1,22 @@
+[ molecule ]
+LIG DHAP
+
+[ martini ]
+ALC1 CO1 P1
+
+[ atoms ]
+1	O1 ALC1
+2	C1 ALC1
+3	C2 CO1
+4	O2 CO1
+5	C3 CO1
+6	O3 P1
+7	P1 P1
+8	O4 P1
+9	O5 P1
+10	O6 P1
+11	H1 ALC1
+12	H2 ALC1
+13	H3 ALC1
+14	H4 CO1
+15	H5 CO1

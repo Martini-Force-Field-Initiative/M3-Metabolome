@@ -1,0 +1,12 @@
+[ molecule ]
+LIG PO4
+
+[ martini ]
+P1
+
+[ atoms ]
+1 P1 P1
+2 O1 P1
+3 O2 P1
+4 O3 P1
+5 O4 P1

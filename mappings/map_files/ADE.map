@@ -1,0 +1,22 @@
+[ molecule ]
+LIG ADE
+
+[ martini ]
+ADE1 ADE2 ADE3 ADE4 ADE5 ADE6
+
+[ atoms ]
+  1  N1  ADE4
+  2  C1  ADE4
+  3  C2  ADE6       
+  4  N2  ADE5 
+  5  C3  ADE1 
+  6  N3  ADE1 
+  7  C4  !ADE6
+  8  N4  ADE2
+  9  C5  !ADE2
+ 10  N5  ADE3
+ 11  H1  !ADE4
+ 12  H2  !ADE4
+ 13  H3  !ADE5
+ 14  H4  !ADE1
+ 15  H5  !ADE2

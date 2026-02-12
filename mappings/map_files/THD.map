@@ -1,0 +1,38 @@
+[ molecule ]
+LIG THD
+
+[ martini ] 
+THY1 THY2 THY3 THY4 THY5 RIB1 RIB2 RIB3 RIB4
+
+[ atoms ]
+  1   C1  THY5
+  2   C2  THY5
+  3   C3  THY1
+  4   N1  THY1
+  5   C4  RIB1 RIB4
+  6   C5  RIB1 RIB4
+  7   C6  RIB2 RIB4
+  8   O1  RIB2 RIB4
+  9   C7  RIB3 RIB4
+ 10   C8  RIB3 RIB4
+ 11   O2  RIB3 RIB4
+ 12   O3  RIB3 RIB4
+ 13   C9  THY2
+ 14   O4  THY2
+ 15   N2  THY3    
+ 16  C10  THY4
+ 17   O5  THY4
+ 18   H1  !THY5 
+ 19   H2  !THY5
+ 20   H3  !THY5
+ 21   H4  !THY1
+ 22   H5  RIB1
+ 23   H6  RIB1
+ 24   H7  RIB1
+ 25   H8  RIB2
+ 26   H9  RIB2
+ 27  H10  RIB3
+ 28  H11  RIB3
+ 29  H12  RIB3
+ 30  H13  RIB3
+ 31  H14  !THY3   

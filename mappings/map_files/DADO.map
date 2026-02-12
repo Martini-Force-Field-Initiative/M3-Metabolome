@@ -1,0 +1,38 @@
+[ molecule ]
+LIG DADO
+
+[ martini ]
+ADE1 ADE2 ADE3 ADE4 ADE5 ADE6 RIB1 RIB2 RIB3 RIB4
+
+[ atoms ]
+ 1   N1  ADE4   
+ 2   C1  ADE4  
+ 3   C2  ADE6   
+ 4   N2  ADE5   
+ 5   C3  ADE1  
+ 6   N3  ADE1  
+ 7   C4  RIB1 RIB4
+ 8   C5  RIB1
+ 9   C6  RIB2 RIB4
+10   O1  RIB2 RIB4
+11   C7  RIB3 RIB4
+12   C8  RIB3 RIB4
+13   O2  RIB3 RIB4
+14   O3  RIB3 RIB4
+15   C9  !ADE6
+16   N4  ADE2
+17  C10  !ADE2
+18   N5  ADE3
+19   H1  !ADE4
+20   H2  !ADE4
+21   H3  !ADE1  
+22   H4  RIB1
+23   H5  RIB1  
+24   H6  RIB1  
+25   H7  RIB2 
+26   H8  RIB2  
+27   H9  RIB3  
+28  H10  RIB3  
+29  H11  RIB3   
+30  H12  RIB3  
+31  H13  !ADE2 

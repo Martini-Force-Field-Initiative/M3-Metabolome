@@ -1,0 +1,22 @@
+[ molecule ]
+LIG LASP
+
+[ martini ]
+BB0 BB1 SC1 
+
+[ atoms ]
+1	N1	BB0
+2	C1	BB0
+3	C2	SC1
+4	C3	SC1
+5	O1	SC1
+6	O2	SC1
+7	C4	BB1
+8	O3	BB1
+9	O4	BB1
+10	H1	BB0
+11	H2	BB0
+12	H3	BB0
+13	H4	BB0
+14	H5	SC1
+15	H6	SC1

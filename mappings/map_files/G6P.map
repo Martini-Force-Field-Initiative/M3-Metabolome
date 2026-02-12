@@ -1,0 +1,34 @@
+[ molecule ]
+LIG G6P
+
+[ martini ]
+GLU1 GLU2 GLU3 P1 GLU4
+
+[ atoms ]
+ 1  O1   GLU1
+ 2  C1   GLU1 GLU4
+ 3  O2   GLU3 GLU4
+ 4  C2   GLU3 GLU4
+ 5  C3   GLU3
+ 6  O3   P1
+ 7  P1   P1
+ 8  O4   P1
+ 9  O5   P1
+10  O6   P1
+11  C4   GLU2 GLU4
+12  O7   GLU2
+13  C5   GLU2 GLU4
+14  O8   GLU2
+15  C6   GLU1 GLU4
+16  O9   GLU1
+17  H1   GLU1
+18  H2   GLU1
+19  H3   GLU3
+20  H4   GLU3
+21  H5   GLU3
+22  H6   GLU2
+23  H7   GLU2
+24  H8   GLU2
+25  H9   GLU2
+26  H10  GLU1
+27  H11  GLU1

@@ -1,0 +1,18 @@
+[ molecule ]
+LIG ACEP
+
+[ martini ]
+CO1 P1
+
+[ atoms ]
+1	C1 CO1
+2	C2 CO1
+3	O1 CO1
+4	O2 P1
+5	P1 P1
+6	O3 P1
+7	O4 P1
+8	O5 P1
+9	H1 CO1
+10	H2 CO1
+11	H3 CO1

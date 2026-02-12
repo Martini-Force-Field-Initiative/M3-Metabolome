@@ -1,0 +1,14 @@
+[ molecule ]
+LIG ACEH
+
+[ martini ]
+CO1
+
+[ atoms ]
+1 C1 CO1
+2 C2 CO1
+3 O1 CO1
+4 H1 CO1
+5 H2 CO1
+6 H3 CO1
+7 H4 CO1

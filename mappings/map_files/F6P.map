@@ -1,0 +1,34 @@
+[ molecule ]
+LIG F6P
+
+[ martini ]
+FUC1 FUC2 FUC3 P1 FUC4
+
+[ atoms ]
+ 1  O1 	 FUC1
+ 2  C1 	 FUC1
+ 3  C2 	 FUC1 FUC4
+ 4  O2 	 FUC1
+ 5  O3 	 FUC3 FUC4
+ 6  C3 	 FUC3 FUC4
+ 7  C4 	 FUC3
+ 8  O4 	 P1
+ 9  P1 	 P1
+10  O5 	 P1
+11  O6 	 P1
+12  O7 	 P1
+13  C5 	 FUC2 FUC4
+14  O8   FUC2 FUC4
+15  C6 	 FUC2 FUC4
+16  O9 	 FUC2
+17  H1 	 FUC1
+18  H2 	 FUC1
+19  H3 	 FUC1
+20  H4 	 FUC1
+21  H5 	 FUC3
+22  H6 	 FUC3
+23  H7 	 FUC3
+24  H8 	 FUC2
+25  H9 	 FUC2
+26  H10	 FUC2
+27  H11	 FUC2

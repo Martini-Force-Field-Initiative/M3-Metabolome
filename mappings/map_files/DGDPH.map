@@ -1,0 +1,47 @@
+[ molecule ]
+LIG DGDPH
+
+[ martini ]
+GUA1 GUA2 GUA3 GUA4 GUA5 GUA6 RIB1 RIB2 RIB3 RIB4 P1 P2
+
+[ atoms ] 
+  1  N1  GUA4 
+  2  C1  GUA4
+  3  N2  !GUA4
+  4  C2  GUA6
+  5  C3  GUA6
+  6  N3  GUA5
+  7  C4  GUA1
+  8  N4  GUA1
+  9  C5  RIB1 RIB4
+ 10  C6  RIB1 RIB4
+ 11  C7  RIB2 RIB4
+ 12  O1  RIB2 RIB4
+ 13  C8  RIB3 RIB4
+ 14  C9  RIB3 RIB4
+ 15  O2  P1
+ 16  P1  P1  
+ 17  O3  P1  
+ 18  O4  P1  
+ 19  O5  P1 P2  
+ 20  P2  P2
+ 21  O6  P2  
+ 22  O7  P2  
+ 23  O8  P2  
+ 24  O9  RIB3 RIB4
+ 25 C10  GUA2 
+ 26 O10  GUA2    
+ 27  N5  GUA3
+ 28  H1  !GUA4
+ 29  H2  !GUA4
+ 30  H3  !GUA1   
+ 31  H4  RIB1
+ 32  H5  RIB1
+ 33  H6  RIB1
+ 34  H7  RIB2
+ 35  H8  RIB2
+ 36  H9  RIB3
+ 37 H10  RIB3
+ 38 H11  RIB3
+ 39 H12  P2    
+ 40 H13  !GUA3

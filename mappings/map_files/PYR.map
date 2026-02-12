@@ -1,0 +1,16 @@
+[ molecule ]
+LIG PYR
+
+[ martini ]
+ENO1 CAC1
+
+[ atoms ]
+1	O1 ENO1
+2	C1 ENO1
+3	C2 ENO1
+4	C3 CAC1
+5	O2 CAC1
+6	O3 CAC1
+7	H1 ENO1
+8	H2 ENO1
+9	H3 ENO1

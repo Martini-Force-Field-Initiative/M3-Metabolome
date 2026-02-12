@@ -1,0 +1,26 @@
+[ molecule ]
+LIG E4P
+
+[ martini ]
+CO1 ALC1 ALC2 P1
+
+[ atoms ]
+ 1  O1 ALC2
+ 2  C1 ALC2
+ 3  C2 ALC2
+ 4  O2 P1
+ 5  P1 P1
+ 6  O3 P1
+ 7  O4 P1
+ 8  O5 P1
+ 9  C3 ALC1
+10  O6 ALC1
+11  C4 CO1
+12  O7 CO1
+13  H1 ALC2
+14  H2 ALC2
+15  H3 ALC2
+16  H4 ALC2
+17  H5 ALC1
+18  H6 ALC1
+19  H7 CO1

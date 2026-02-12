@@ -1,0 +1,26 @@
+[ molecule ]
+LIG 3GPP
+
+[ martini ]
+ALC1 P1 CO1 P2
+
+[ atoms ]
+1	 O1 ALC1
+2	 C1 ALC1
+3	 C2 ALC1
+4	 O2 P1
+5	 P1 P1
+6	 O3 P1
+7	 O4 P1
+8	 O5 P1
+9	 C3 CO1
+10	 O6 CO1
+11	 O7 P2
+12	 P2 P2
+13	 O8 P2
+14	 O9 P2
+15	O10 P2
+16	 H1 ALC1
+17	 H2 ALC1
+18	 H3 ALC1
+19	 H4 ALC1

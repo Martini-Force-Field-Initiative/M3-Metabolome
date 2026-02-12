@@ -1,0 +1,14 @@
+[ molecule ]
+LIG ACET
+
+[ martini ]
+CAC1
+
+[ atoms ]
+1 C1 CAC1
+2 C2 CAC1
+3 O1 CAC1
+4 O2 CAC1
+5 H1 CAC1
+6 H2 CAC1
+7 H3 CAC1
