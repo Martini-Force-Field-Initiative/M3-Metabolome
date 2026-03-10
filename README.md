@@ -2,6 +2,8 @@
 
 Parameters, structure files, and parameterisation reference files for the Martini 3 Metabolome.
 
+This repository is a subset of the full SI dataset available on [Zenodo](https://zenodo.org/records/18622430).
+
 The currently available models are listed in the [database](database.md).
 
 If you are interested in using the parameters, the structure and parameter files are contained
@@ -15,7 +17,18 @@ The [misc](misc) folder contains any other files that may be relevant or of use.
 it contains the [database.md](database.md) file in csv format, for ease of use.
 
 ## Citation
-Citation forthcoming
+If you use these parameters, please cite the relevant [paper](https://www.biorxiv.org/content/10.64898/2026.03.06.710121v1)
+
+```
+@article {M3metabolites,
+	author = {Brasnett, Christopher and Brown, Chelsea May and Gr{\"u}newald, Linus and Stevens, Jan A and Marrink, Siewert-Jan},
+	title = {The Martini 3 Metabolome},
+	year = {2026},
+	doi = {10.64898/2026.03.06.710121},
+	URL = {https://www.biorxiv.org/content/early/2026/03/09/2026.03.06.710121},
+	journal = {bioRxiv}
+}
+```
 
 ## Repo organisation
 ```commandline
