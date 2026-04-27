@@ -1,3 +1,4 @@
 *.idea
 /pics/
 /misc/database.numbers
+**/.DS_Store
