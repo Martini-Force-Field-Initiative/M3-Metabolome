@@ -63,4 +63,4 @@ decision of whether contributions can give authorship on the resulting academic 
 
 ## Full dataset
 
-The full dataset (including reference atomistic trajectories) for the metabolome is available on Zenodo [LINK]
+The full dataset (including reference atomistic trajectories) for the metabolome is available on [Zenodo](https://zenodo.org/records/18622430)
