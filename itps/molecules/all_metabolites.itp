@@ -7147,7 +7147,7 @@ KGLU 1
 LAC 1
 
 [ atoms ]
-1 SP1  1 LAC ALC1 1  1.0 54.0
+1 SP1  1 LAC ALC1 1  0.0 54.0
 2 SQ5n 1 LAC CAC1 2 -1.0 54.0
 
 [ bonds ]
