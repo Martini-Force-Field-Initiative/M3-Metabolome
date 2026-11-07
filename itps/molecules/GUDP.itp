@@ -20,7 +20,7 @@ GUDP 1
 13 SP4r  1 GUDP GYN2 13  0.0     
 14 SP1r  1 GUDP GYN3 14  0.0     
 15 SP3d  1 GUDP GYN4 15  0.0     
-16 TC4   1 GUDP GYN4 15  0.0  0.0
+16 TC4   1 GUDP GYN5 16  0.0  0.0
 
 [ bonds ]
  1  6 b_URA1_RIB1
